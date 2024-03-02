@@ -24,7 +24,7 @@
     tapping-term-ms = <200>; // Adjust this value as needed
     quick_tap_ms = <175>; // Adjust this value as needed
     flavor = "tap-preferred";
-    bindings = <&kp KC_CAPSLOCK>, <&kp KC_CAPSLOCK>; // Trigger Caps Lock behavior
+    bindings = {<&kp KC_CAPSLOCK>, <&kp KC_CAPSLOCK>}; // Trigger Caps Lock behavior
 };
     };
 
