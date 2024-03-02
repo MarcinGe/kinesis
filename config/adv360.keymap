@@ -23,7 +23,7 @@
             #binding-cells = <2>;  // Uncomment this line if needed
             tapping-term-ms = <200>;  // Adjust this value as needed
             quick_tap_ms = <175>;  // Adjust this value as needed
-            flavor = "balanced";
+            flavor = "tap-preferred";
             bindings = <&kp>, <&kp>;
         };
     };
