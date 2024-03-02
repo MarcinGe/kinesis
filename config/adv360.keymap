@@ -23,7 +23,7 @@
             #binding-cells = <2>;
             tapping-term-ms = <200>;
             mod-tap-modifier = <LEFT_SHIFT>;
-            mod-tap-key = <KC_CAPSLOCK>;
+            mod-tap-key = <57>;
 
         };
     };
