@@ -22,7 +22,7 @@
             label = "SHIFT_BEHAVIOR";
             #binding-cells = <2>;  // Uncomment this line if needed
             tapping-term-ms = <200>;  // Adjust this value as needed
-            quick_tap_ms = <75>;  // Adjust this value as needed
+            quick_tap_ms = <25>;  // Adjust this value as needed
             flavor = "tap-preferred";
             bindings = <&kp>, <&kp>;
         };
